@@ -1,0 +1,11 @@
+#!/bin/bash
+
+# Opening Message
+echo "Hey there tiger, welcome to my Hey Day script!"
+read -p "What can I call you? " name
+
+# Response Message
+echo "WAR EAGLE $name!! Have an awesome Hey Day! In the spirit of the 
+tradition, I hope you make new connections and grow your Auburn family."
+
+
